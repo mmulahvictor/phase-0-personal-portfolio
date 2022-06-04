@@ -21,8 +21,21 @@ div#header1 h1{
     width: 20%;
 }
 
-img{
+#img1{
     position: absolute;
     left: 71%;
     height:250px;
+}
+
+#content{
+    color: white;
+}
+
+#content h1{
+    text-align: center;
+    color: #ffb633;
+}
+
+.about-me{
+    display: flex;
 }
