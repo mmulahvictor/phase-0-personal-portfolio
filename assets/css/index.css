@@ -1,0 +1,28 @@
+body{
+    background: #313131;
+}
+
+.header{
+    display: flex;
+}
+
+#header1{
+    background: #2c2c2c;
+    width: 80%;
+    color: white;
+}
+
+div#header1 h1{
+    color: #ffb633;
+}
+
+#header2{
+    background: #ffb633;
+    width: 20%;
+}
+
+img{
+    position: absolute;
+    left: 71%;
+    height:250px;
+}
