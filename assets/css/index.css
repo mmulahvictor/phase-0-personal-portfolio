@@ -31,11 +31,21 @@ div#header1 h1{
     color: white;
 }
 
-#content h1{
+#content h2{
     text-align: center;
     color: #ffb633;
 }
 
 .about-me{
     display: flex;
+}
+
+#image2{
+    width: 400px;
+}
+
+.paragraph{
+    margin-left: 30px;
+    margin-right: 180px;
+    font-size: 1.5em;
 }
