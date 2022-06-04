@@ -49,3 +49,25 @@ div#header1 h1{
     margin-right: 180px;
     font-size: 1.5em;
 }
+
+#info{
+    background: #2c2c2c;
+}
+
+.img-footer1{
+    width: 80px;
+}
+
+.img-footer2{
+    width: 70px;
+}
+
+#services{
+    display: flex;
+    justify-content: space-around;
+}
+
+#services div{
+    background: white;
+    height: 150px;
+}
